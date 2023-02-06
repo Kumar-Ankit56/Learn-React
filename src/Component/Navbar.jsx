@@ -34,7 +34,7 @@ function Navbar() {
   }, []);
   return (
     <div>
-      <div className="fixed w-full h-20 bg-[#010326] shadow-2xl z-10 md:z-50">
+      <div className="sticky w-full h-20 bg-[#010326] shadow-2xl z-10 md:z-50">
         <div className="flex items-center justify-between px-10 py-4 md:px-40 ">
           <div className="w-[40px] h-[40px] flex items-center ">
             <img
