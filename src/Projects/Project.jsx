@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectData from "./ProjectData";
 import { AiFillGithub } from "react-icons/ai";
+import { BsArrowRight } from "react-icons/bs";
 import { BiDesktop } from "react-icons/bi";
 
 function Project() {
@@ -54,6 +55,12 @@ function Project() {
               </div>
             </div>
           ))}
+        </div>
+        <div className="mt-10 mb-10 flex justify-center items-center">
+          <div className="px-4 cursor-pointer font-semibold py-4 w-[10rem] mx-auto md:mx-0 text-2xl text-[#000000] hover:text-[#61dafb]">
+            <span className="">View More</span>
+            {/* <BsArrowRight /> */}
+          </div>
         </div>
       </div>
     </div>

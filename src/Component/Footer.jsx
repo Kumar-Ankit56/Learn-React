@@ -21,7 +21,7 @@ function Footer() {
               <img class="object-contain object-center" src={logo} alt="" />
             </div>
             <div class="flex items-center justify-center">
-              <p class="text-xl leading-4 text-white">
+              <p class="md:text-xl text-lg leading-4 text-white">
                 &copy; 2023 Learn React. All Rights Reserved.
               </p>
             </div>
