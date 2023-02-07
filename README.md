@@ -43,8 +43,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 <h2 align=center> 📝 How to Contribute? </h2>  
-We recommend you to go through the [CONTRIBUTING.md](https://github.com/Clueless-Community/web-ui-kit/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
-
+We recommend you to go through the [CONTRIBUTING.md](https://github.com/Kumar-Ankit56/Learn-React/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
 ---
 ## What is the purpose of this project?
     
