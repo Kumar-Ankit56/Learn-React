@@ -10,7 +10,7 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=TusharKesarwani%2FFront-End-Projects%20&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Kumar-Ankit56%2FLearn-React%20&countColor=%23263759&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Kumar-Ankit56/Learn-React)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Kumar-Ankit56/Learn-React)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kumar-Ankit56/Learn-React)
