@@ -57,9 +57,9 @@ We want to build the best and most simple UI Kit for fronted development, which 
 <table align="center">
 	<tr >
     <td align="center">
-            <a href="https://github.com/TusharKesarwani">
-              <img src="https://avatars.githubusercontent.com/u/92527686?v=4" width="100px" alt=""/><br />
-              <sub><b>TusharKesarwani</b></sub>
+            <a href="https://github.com/Kumar-Ankit56">
+              <img src="https://ibb.co/n1qnQQy" width="100px" alt=""/><br />
+              <sub><b>Ankit Kumar</b></sub>
             </a>
    </td>
   </tr>
