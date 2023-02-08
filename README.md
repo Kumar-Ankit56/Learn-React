@@ -62,9 +62,9 @@ We want to build the best and most simple UI Kit for fronted development, which 
 <h2 align=center>Project Admin</h2> 
 <table align="center">
 	<tr >
-    <td align="center">
+    <td align="center" width="100" height="120">
             <a href="https://github.com/Kumar-Ankit56">
-               <img src='https://www.linkpicture.com/q/profile-pic_8.png' type='image'>
+               <img src='https://www.linkpicture.com/q/profile-pic_8.png'  type='image'>
               <sub><b>Ankit Kumar</b></sub>
             </a>
    </td>
