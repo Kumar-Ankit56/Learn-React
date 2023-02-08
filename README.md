@@ -32,6 +32,12 @@
 
 ---
 <h2 align= center> Tech Stacks used ✨ </h2>
+<p align="center">
+ <a href="https://www.linkpicture.com/view.php?img=LPic63e32adcd00e71224902955"><img src="https://www.linkpicture.com/q/3225711ab19515c08270261f189d98b0-removebg-preview-1.png" width="150" height="100" type="image"></a>
+ <a href='https://www.linkpicture.com/view.php?img=LPic63e32baf49ad4662577046'><img src='https://www.linkpicture.com/q/Tailwind-CSS-removebg-preview.png' width="100" height="100" type='image'></a>
+    <a href="https://www.W3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/></a>
+
+</p>
 
 <h2 align=center> 👨🏻‍💻 How to get started? </h2> 
 
@@ -44,6 +50,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 
 <h2 align=center> 📝 How to Contribute? </h2>  
 We recommend you to go through the [CONTRIBUTING.md](https://github.com/Kumar-Ankit56/Learn-React/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
+
 ---
 ## What is the purpose of this project?
     
