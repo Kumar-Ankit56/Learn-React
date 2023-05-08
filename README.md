@@ -55,7 +55,7 @@ We recommend you to go through the [CONTRIBUTING.md](https://github.com/Kumar-An
 ## What is the purpose of this project?
     
 
-We want to build the best and most simple UI Kit for fronted development, which you can use irrespective of stack you are using, be it a plain HTML CSS static page or React, Vue or Angular. One should be always able to use this UI kit.
+I want to build the best and most simple react-repo for fronted developers, who is just started learning react this will help them with project based learning to graps the concept more easily. This will have all the basic to advance level project. Love to have your contribution on the board 😍
 
 ---
 
